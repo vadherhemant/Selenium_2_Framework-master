@@ -1,6 +1,3 @@
-Selenium 2 Test Automation Framework 
-<a href = "http://www.grazitti.com">By Grazitti Interactive</a>
-
 Version 3.0
 
 ====================
